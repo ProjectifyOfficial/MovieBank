@@ -62,4 +62,7 @@ ionic cordova run ios
 ## Resources
 [The MovieDB API](https://developers.themoviedb.org/3/getting-started/introduction)
 
+## CREATED BY
+https://github.com/limxona/MovieBank
+
 
